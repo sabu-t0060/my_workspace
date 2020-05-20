@@ -17,13 +17,19 @@ public class myAppTester {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+
+
+		/*
+		 * Git is on branch 1 now
+		 */
+
 		int num;
 		Scanner input = new Scanner(System.in);
 		System.out.println("Hello welcome to software engineering");
 		System.out.println("Enter the number to find the sum");
 		num = input.nextInt();
 		System.out.println("Sum of digits = "+sumOfDigits(num));
-		
+
 		
 		
 
