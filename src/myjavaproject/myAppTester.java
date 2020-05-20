@@ -21,6 +21,8 @@ public class myAppTester {
 
 		/*
 		 * Git is on branch 1 now
+		 * This is  mytest application
+		 * 
 		 */
 
 		int num;
