@@ -16,15 +16,20 @@ public class myAppTester {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		/*
+		 * Git is on branch 1 now
+		 */
 		int num;
 		Scanner input = new Scanner(System.in);
 		System.out.println("Hello welcome to software engineering");
 		num = input.nextInt();
+		System.out.println("Sum of Digits =" + sumOfDigits(num));
 		
 		
 
 	}
-    public int sumOfDigits(int n) {
+    public static int sumOfDigits(int n) {
     	int sum =0,d;
     	while(n > 0)
         {
