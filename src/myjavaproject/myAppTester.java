@@ -19,7 +19,7 @@ public class myAppTester {
 		int num;
 		Scanner input = new Scanner(System.in);
 		System.out.println("Hello welcome to software engineering");
-		//num = input.nextInt();
+		num = input.nextInt();
 		
 		
 
